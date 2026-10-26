@@ -163,39 +163,20 @@ dataset.
 
 ## Recommendations for Improvement
 
-1.  **Make the analysis reproducible:** convert source ranges into Excel
-    Tables and use structured references where appropriate so formulas
-    expand with new rows.
-2.  **Add a data dictionary:** document each field, its meaning,
-    expected data type, and any known limitations.
-3.  **Strengthen data validation:** flag missing dates, text stored in
-    numeric columns, unexpected negative values, and inconsistent
-    category names before analysis.
-4.  **Use a consistent KPI definition:** document whether sales, profit,
-    order count, and average order value are calculated at row, order,
-    or customer level.
-5.  **Improve dashboard interactivity:** add slicers or filters for
-    year, region, category, and segment; use clear titles, units, and
-    date coverage.
-6.  **Add context to trends:** compare current results with the prior
-    period and explain material changes rather than showing totals
-    alone.
-7.  **Validate calculations:** reconcile key formula results with
-    PivotTables, Status Bar summaries, or independent checks.
-8.  **Use robust consolidation:** standardize sheet names and column
-    layouts, and document the source ranges included in each
-    consolidated result.
-9.  **Improve macro maintainability:** use descriptive macro names,
-    comments, explicit worksheet references, and error handling. Avoid
-    relying on whichever range happens to be selected.
-10. **Protect data and macros:** keep a clean source copy, save macros
-    as `.xlsm`, and enable macros only from trusted workbooks.
-11. **Keep the deliverable portfolio-ready:** include a short project
-    summary, screenshots of the most important outputs, formulas used,
-    findings, and limitations.
-12. **Separate practice data from source data:** clearly label custom
-    examples so readers do not mistake them for Superstore-derived
-    business results.
+1. **Improve Product Profitability:** Identify products and categories generating high sales and profits. Investigate products with high sales but low or negative profit, and review their pricing and discount strategies.
+
+2. **Optimize Discount Strategies:** Analyze the impact of discounts on profitability. Reduce excessive discounting where it significantly affects profit margins and focus on promotions that generate profitable sales.
+
+3. **Optimize Inventory Management:** Use historical sales trends to forecast demand, maintain sufficient stock of popular products, and reduce excess inventory of slow-moving items.
+
+4. **Strengthen Regional Sales Performance:** Compare sales and profitability across regions to identify growth opportunities. Develop targeted sales strategies and promotions for regions with weaker performance.
+
+5. **Focus on Profitable Sales Growth:** Track sales growth alongside profit margins rather than focusing on revenue alone. Prioritize products and strategies that increase both revenue and profitability.
+
+6. **Monitor Key Business KPIs:** Regularly track total sales, total profit, profit margin, order volume, average order value, and discount levels. Use monthly performance reviews to identify trends and support data-driven decisions.
+
+**Expected Outcome:** These recommendations can help the store improve profitability, optimize inventory, strengthen regional performance, and make more informed business decisions.
+**
 
 ## Limitations
 
@@ -215,16 +196,6 @@ dataset.
 -   This README documenting project purpose, requirements, tools,
     workflow, challenges, insights, and recommendations.
 
-## How to Use
-
-1.  Open the workbook in Microsoft Excel.
-2.  Review the dashboard, then navigate through the section worksheets.
-3.  Select formulas to inspect how calculations are performed.
-4.  Use filters and PivotTables to explore different views of the data.
-5.  For macro demonstrations, open the macro-enabled `.xlsm` copy and
-    enable macros only if you trust the file.
-6.  Refer to the assignment solution document for task-by-task
-    explanations.
 
 ------------------------------------------------------------------------
 
