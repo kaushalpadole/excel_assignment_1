@@ -15,6 +15,10 @@ macros. The accompanying dashboard provides a visual overview of sales
 performance, including category, product/sub-category, regional, and
 yearly views.
 
+## Dashboard Overview
+
+
+
 ## Project Objectives
 
 -   Calculate and validate sales metrics using Excel formulas.
