@@ -17,6 +17,7 @@ yearly views.
 
 ## Dashboard Overview
 
+![Uploading image.png…]()
 
 
 ## Project Objectives
