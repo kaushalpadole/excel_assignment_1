@@ -17,7 +17,8 @@ yearly views.
 
 ## Dashboard Overview
 
-![Uploading Dashboard_Superstore_Sales.png…]()
+<img width="1393" height="687" alt="Dashboard_Superstore_Sales" src="https://github.com/user-attachments/assets/7ea4499c-cf9c-43a5-9432-88977993fa35" />
+
 
 
 
